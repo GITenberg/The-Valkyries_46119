@@ -1,0 +1,49 @@
+_repo: The-Valkyries_46119
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lewis, T. Noyes
+    gutenberg_agent_id: '43618'
+    url: http://www.gutenberg.org/2009/agents/43618
+covers:
+- cover_type: archival
+  image_path: 46119-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Wagner, Richard
+    aliases:
+    - Drach, Wilhelm
+    - Wagner, Wilhelm Richard
+    - Wagner, R. (Richard)
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '1325'
+    url: http://www.gutenberg.org/2009/agents/1325
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Richard_Wagner
+    - http://fr.wikipedia.org/wiki/Richard_Wagner
+  - agent_name: Benson, E. F. (Edward Frederic)
+    aliases:
+    - Benson, Edward Frederic
+    - Benson, Edward F. (Edward Frederic)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '812'
+    url: http://www.gutenberg.org/2009/agents/812
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2014-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Stories, plots, etc.'
+- !lcc 'PR'
+- !lcsh 'Wagner, Richard, 1813-1883. Ring des Nibelungen. Walküre -- Adaptations'
+title: The Valkyries
+url: http://www.gutenberg.org/ebooks/46119
